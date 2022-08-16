@@ -13,5 +13,4 @@
 - UIkit
 - Canva
 
-![eggtimergif(Documentation/eggtimer.gif)
-
+![eggtimergif](https://user-images.githubusercontent.com/104423646/184941302-0cfe7538-9132-48d9-b061-9dbeb844dfb4.gif)
